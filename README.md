@@ -1,4 +1,4 @@
-# AI-Chips-Energy-Nuclear-Index-Dashboard-A-Power-BI-Driven-Analytical-Framework
+# AI-Chips-Energy-Nuclear Index Dashboard: A-Power-BI Driven Analytical Framework
 Financial markets are complex, and investors need tools to analyze returns, volatility, and relationships between sectors to make informed decisions. A multi-page Power BI dashboard was built to provide insights into performance, risk, technical indicators, and correlations.
 
 The expansion of AI applications ranging from machine learning to generative AI has significantly increased the need for specialized hardware such as GPUs, TPUs, and custom AI chips. These technologies require substantial computational power, which in turn drives high energy consumption.
